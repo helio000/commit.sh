@@ -1,5 +1,18 @@
+```
 git config --global user.name "helio000"
+```
+```
 git config --global user.email "ha2840770@gmail.com"
+```
+```
 git pull
+```
+```
 git add .
+```
+```
 git commit -m "chamada"
+```
+```
+git push
+```
